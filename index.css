@@ -1,0 +1,100 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.body{
+    background-color: aliceblue;
+    height: 200px;
+}
+.background-img{
+    background-image: url(ytv8kgdhhcma1.png);
+    width: 100%;
+    height: 400px;
+    box-shadow: black;
+}
+.nev{
+    width: 100%;   
+    justify-content: space-between;
+    height: 54px;
+    align-items: center;   
+}
+
+.nev img{
+    width: 225px;
+    float: left;
+    margin-top: 7px;
+    margin-left: 33px;
+    height: 41px;
+}
+.nav ul li {
+  list-style: none;
+  float: right;
+}
+.all-sarvisas ul li a{
+    text-decoration: none;
+    color: white;
+    float: right;
+    margin-right: 54px;
+    margin-top: 15px;
+}
+.short-about-my-salf{
+    width: 100%;
+}
+h2{
+    font-size: 45px;
+}
+.text{
+    color: white;   
+    padding-left: 117px;
+    padding-top: 149px;
+    float: left;
+}
+.short-about-my-salf img{
+    float: right;
+    height: 330px;
+    padding-right: 53px;
+}
+.sarvise{
+    width: 100%;
+    height: 1020px;
+    background-color: aliceblue;
+    padding-top: 20px;
+}
+.report{
+    width: 100%;
+    height: 244px;
+    padding-bottom: 10px;
+}
+.report img{
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin-top: 22px;
+    margin-left: 78px;
+}
+.report p{
+    float: right;
+    margin-top: 75px;
+    margin-right: 125px;
+    
+}
+.copyrayd{
+    width: 100%;
+    height: 250px;
+    background-color: rgb(48, 47, 47);
+}
+.Sarvies{
+    width: 100%;
+}
+.h3{
+    color: white;
+}
+.manu ul li{
+    list-style: none;
+}
+.manu ul li a{
+    text-decoration: none;
+    color: white;
+
+}
